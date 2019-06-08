@@ -1,0 +1,4 @@
+.idea/
+.cmake-build-debug/
+classifier/cmake-build-debug/
+cmake-build-debug/
